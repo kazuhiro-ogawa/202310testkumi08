@@ -1,3 +1,4 @@
+#define REDLED 7
 void setup() {
 
 }
